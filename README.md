@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @isinglch
+- 👋 Hi, I’m Chenhao Liang
 - 👀 I’m interested in condensed matter physics
-- 🌱 I’m currently learning ...
 - 📫 Reach me: chenhao_liang2000@163.com
 
 <!---
